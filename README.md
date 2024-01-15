@@ -28,7 +28,7 @@ You can find the models on the [HuggingFace Spaces](https://huggingface.co/space
 
 To use the whisperplus library, follow the steps below for different tasks:
 
-### 🎵 Youtube URL to Audio
+### 🎵 Youtube URL to Text
 
 ```python
 from whisperplus import SpeechToTextPipeline, download_and_convert_to_mp3
